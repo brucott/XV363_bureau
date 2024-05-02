@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languageData Version="galileoNG">
+	<texts>
+		<standard Guid="0fa419f1-a95c-4ef5-b0ad-5cafdcff1f0e" textID="0"><![CDATA[Maison]]></standard>
+		<standard Guid="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" textID="1"><![CDATA[C°]]></standard>
+		<standard Guid="ba18a433-dc47-417f-a1c0-0797f54e6608" textID="2"><![CDATA[Temperatures]]></standard>
+		<standard Guid="754f1dca-00bb-4cc7-b7e1-ab6c30bb1c47" textID="3"><![CDATA[Piscine]]></standard>
+		<standard Guid="9ab07e62-3f28-4bf5-8615-e2162b1c4bcb" textID="4"><![CDATA[Air]]></standard>
+		<standard Guid="9100a564-01c4-49da-b951-b2e796fa1aaa" textID="5"><![CDATA[:]]></standard>
+		<standard Guid="d32b6fd3-e620-439f-812d-2c98073d97ec" textID="6"><![CDATA[Eau]]></standard>
+		<standard Guid="0b9232b3-0510-4784-b973-c7c29bd9d1df" textID="7"><![CDATA[Pompe]]></standard>
+		<standard Guid="d90c5d17-641d-4293-a934-77e3b300ce0a" textID="8"><![CDATA[Eclairage]]></standard>
+		<standard Guid="4d705115-bb81-4bcc-b3a0-806daa80bcf0" textID="9"><![CDATA[Alarmes :]]></standard>
+		<standard Guid="d373955d-d596-41d6-a75c-ce495aa7e748" textID="10"><![CDATA[Ext. piscine]]></standard>
+		<standard Guid="7ace38c6-0b03-4869-9529-07ffeeda9392" textID="11"><![CDATA[Ext. garage]]></standard>
+		<standard Guid="ca3e1edd-ede9-4265-90c1-703715c7eb0e" textID="12"><![CDATA[Temperature EST]]></standard>
+		<standard Guid="14c5ce77-bb87-46a3-b918-63906de779dc" textID="13"><![CDATA[Temperature NORD]]></standard>
+		<standard Guid="bfc65e36-ea32-48c8-9494-028440aa0262" textID="14"><![CDATA[E]]></standard>
+		<standard Guid="8908f316-ff44-440d-a655-c010376e1623" textID="15"><![CDATA[N]]></standard>
+		<standard Guid="d63f7d15-72bc-4fd4-aa4d-217adbc34a36" textID="16"><![CDATA[Temp. EST]]></standard>
+		<standard Guid="46dd3375-2288-48e1-bf95-cfc6b3e34c0a" textID="17"><![CDATA[Temp. piscine]]></standard>
+		<standard Guid="e4284993-898a-4a9c-9947-7f25cb50ea05" textID="18"><![CDATA[Temp. NORD]]></standard>
+		<standard Guid="2a51eefd-b4b4-4521-a8e8-52d3770b6f32" textID="19"><![CDATA[B]]></standard>
+		<standard Guid="0d73f1d6-7d48-4a0d-8e1c-012047e21dea" textID="20"><![CDATA[Temp. bureau]]></standard>
+		<error Guid="3b4539b0-2103-4261-9d81-3908c30e1e6c" textID="0"><![CDATA[Piscine en mode "hors gel"]]></error>
+		<error Guid="384fea2f-fc0a-4756-89b4-8487f70375fe" textID="1"><![CDATA[Alarm test]]></error>
+	</texts>
+</languageData>

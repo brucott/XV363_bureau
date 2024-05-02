@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.2.0.0" runtimeid="3.5.18.40" libversion="4.2.0.0" compiler="3.5.18.40" lmm="3.5.18.40" profile="XSOFT-CODESYS V3.5.18+" settings="SupportOPCUA, XmlIncludeComments, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="C3_XV363_bureau_V1-1" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="GVL_XV363">
+        <Node name="EntreeAna02" type="T_INT" access="Read" directaddress="%IW2" />
+        <Node name="EntreeAna03" type="T_INT" access="Read" directaddress="%IW4" />
+        <Node name="EntreeAna04" type="T_INT" access="Read" directaddress="%IW6" />
+        <Node name="wSondeGarage" type="T_INT" access="Read" directaddress="%IW24" />
+        <Node name="wSondeNord" type="T_INT" access="Read" directaddress="%IW0" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="4.4.0.0" runtimeid="3.5.19.30" libversion="4.4.0.0" compiler="3.5.19.30" lmm="3.5.19.30" profile="XSOFT-CODESYS V3.5.19+" settings="SupportOPCUA, XmlIncludeComments, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="C3_XV363_bureau_V2-1" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BIT_X_0" size="1" swapsize="0" typeclass="Bool" iecname="BIT" bitoffset="0" />
+    <TypeSimple name="T_BIT_X_1" size="1" swapsize="0" typeclass="Bool" iecname="BIT" bitoffset="1" />
+    <TypeSimple name="T_REAL" size="4" swapsize="4" typeclass="Real" iecname="REAL" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="GVL_IO_XV">
+        <Node name="rTemperatureBureau" type="T_REAL" access="ReadWrite">
+          <Comment> Temperature bureau</Comment>
+        </Node>
+        <Node name="rTemperatureEauPiscine" type="T_REAL" access="ReadWrite">
+          <Comment> Temperature eau piscine</Comment>
+        </Node>
+        <Node name="rTemperatureEst" type="T_REAL" access="ReadWrite">
+          <Comment> Temperature EST maison</Comment>
+        </Node>
+        <Node name="rTemperatureNord" type="T_REAL" access="ReadWrite">
+          <Comment> Temperature NORD maison</Comment>
+        </Node>
+        <Node name="xCommandeEclairage" type="T_BIT_X_1" access="ReadWrite" directaddress="%QX0.1" />
+        <Node name="xCommandePompe" type="T_BIT_X_0" access="ReadWrite" directaddress="%QX0.0" />
+        <Node name="xEtatEclairage" type="T_BIT_X_1" access="Read" directaddress="%IX12.1" />
+        <Node name="xEtatPompe" type="T_BIT_X_0" access="Read" directaddress="%IX12.0" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>

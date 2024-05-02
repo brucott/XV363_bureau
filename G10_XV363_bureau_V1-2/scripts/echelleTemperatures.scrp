@@ -1,0 +1,5 @@
+//#.TemperatureAirTerrasseT := 0.MW005;
+//#.TemperatureAirTerrasse := #.TemperatureAirTerrasseT / 10;
+
+//#.TemperatureBureauT := 1.GVL_XV363.wSondeNord;
+//#.TemperatureBureau := #.TemperatureBureauT / 100;
