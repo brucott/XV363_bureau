@@ -1,6 +1,6 @@
 <StandardScreen Guid="34ddba23-e6d5-483e-af41-d1a52388d0b5" Res="[800 600]" ScreenColor="[255 192 192 192]" ActiveSet="53df8125-d242-4421-9fe1-d645e46e7335" Name="temperatures" No="1" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
-  <Checksum Value="2213404368" />
-  <ControlUserControl Guid="5edcfece-0342-4efb-bb00-07228e320c6a" LockedPosition="0" ControlSet="53df8125-d242-4421-9fe1-d645e46e7335" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="800" Height_PropType="0" Height_Value="80">
+  <Checksum Value="2072395021" />
+  <ControlUserControl Guid="5edcfece-0342-4efb-bb00-07228e320c6a" LockedPosition="0" ControlSet="53df8125-d242-4421-9fe1-d645e46e7335" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="530" Width_PropType="0" Width_Value="800" Height_PropType="0" Height_Value="70">
     <SubScreenEntry Guid="c3b7983d-cfe7-4b8b-90ac-7b32801805a4" SubScreen="bdd447f1-426e-4afe-8282-7ab50f82cd7f" Name="">
       <SSAC Guid="e904dbd1-560c-4b67-9068-52b7b50abe46" />
     </SubScreenEntry>

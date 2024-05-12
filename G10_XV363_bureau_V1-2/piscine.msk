@@ -1,6 +1,6 @@
 <StandardScreen Guid="aa41c2f2-4055-4442-b4bb-b967c8b1f5c4" Res="[800 600]" ScreenColor="[255 192 192 192]" ActiveSet="4f0ebffc-1e21-4aff-a000-3307b63cec70" Name="piscine" No="2" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
-  <Checksum Value="98535908" />
-  <ControlUserControl Guid="6192d3b8-54a9-4c41-b97c-e4bfd2985c20" LockedPosition="0" ControlSet="4f0ebffc-1e21-4aff-a000-3307b63cec70" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="800" Height_PropType="0" Height_Value="80">
+  <Checksum Value="1757458665" />
+  <ControlUserControl Guid="6192d3b8-54a9-4c41-b97c-e4bfd2985c20" LockedPosition="0" ControlSet="4f0ebffc-1e21-4aff-a000-3307b63cec70" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="530" Width_PropType="0" Width_Value="800" Height_PropType="0" Height_Value="70">
     <SubScreenEntry Guid="2723f51b-373f-4b5f-8949-eef67bd48340" SubScreen="bdd447f1-426e-4afe-8282-7ab50f82cd7f" Name="">
       <SSAC Guid="345572cb-d8f0-4faa-a8f4-550464557e3b" />
     </SubScreenEntry>
