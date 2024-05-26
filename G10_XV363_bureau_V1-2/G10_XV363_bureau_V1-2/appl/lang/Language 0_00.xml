@@ -30,6 +30,9 @@
 			<s ID="18"><![CDATA[Temp. NORD]]></s>
 			<s ID="19"><![CDATA[B]]></s>
 			<s ID="20"><![CDATA[Temp. bureau]]></s>
+			<s ID="21"><![CDATA[NORMAL]]></s>
+			<s ID="22"><![CDATA[Temp. air]]></s>
+			<s ID="23"><![CDATA[Temp. eau]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
