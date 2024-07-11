@@ -1,5 +1,5 @@
 <SubScreen Guid="bdd447f1-426e-4afe-8282-7ab50f82cd7f" Res="[800 70]" ScreenColor="[0 255 255 255]" ActiveSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="UserControl" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
-  <Checksum Value="3190494310" />
+  <Checksum Value="1220824715" />
   <ScreenChange Guid="6dbd7a2b-6e32-479c-9d74-350a4203d0b3" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Style="6ddce2a8-86c2-4aa9-a112-004e0c28fb73" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="740" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="50" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="1e4cb458-2e05-4f93-a13e-70148c167cae">
     <State Guid="c006b258-0812-48f7-a75a-cd04ae463b19" Name="On" Version="[1.1.0]">
       <BackImageDecorator Guid="ad0c1b4d-23e4-4aea-9f00-299abcdba82c" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="25224424-a1b3-4670-ba16-46dd373ed6fb" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -40,20 +40,6 @@
       <IconImageDecorator Guid="88208a9d-251f-4766-8d82-0db85a303a65" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c4fc36f3-760f-4106-92ac-a34a5b77b70d" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </CImage>
-  <ValueEntry Guid="a091aa09-cdc5-4bcd-97d8-c21514d006fa" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Format="0" UnitShowing="1" Click="0" FrameStyle="2" ReplaceUnderscoresWithSpaces="0" X_PropType="0" X_Value="190" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="70" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="97357753-911d-4b1f-9847-92abb4c688f2" ConversionData_PropType="0" ConversionData_Value="c7364424-2998-4731-880a-857ffedff027">
-    <State Guid="c3b9f71a-0908-43d6-906f-0b36edbc229b" Name="Lower" Version="[1.1.0]">
-      <ColorDecorator Guid="dfd1b31d-349b-4322-9348-a7e0bed9b7aa" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="f3fe685f-8f6e-4bb1-803c-bffbfbae004d" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="44d55e92-0520-4bb9-9bf5-97a66917a6aa" Name="Within" Version="[1.1.0]">
-      <ColorDecorator Guid="3105e1cf-a1df-4b53-a2fa-8ead0e6a4c7f" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="45a98a6c-8e34-4747-ba33-0d2b63cbdd74" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="9543882c-e6f8-456c-9c38-2a2a81d23d20" Name="Upper" Version="[1.1.0]">
-      <ColorDecorator Guid="c688b6fc-6833-438a-b821-9afafa385842" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="dc6d9085-d7ab-46d9-8d85-fa62061baafe" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-  </ValueEntry>
   <ScreenChange Guid="148976f9-b4e0-4c8e-9814-96eda7ed5dca" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Style="6ddce2a8-86c2-4aa9-a112-004e0c28fb73" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="630" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="100" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="34ddba23-e6d5-483e-af41-d1a52388d0b5">
     <State Guid="c8b018eb-b8a5-4195-a682-e191b49df101" Name="On" Version="[1.1.0]">
       <BackImageDecorator Guid="8d65d70e-0c8c-4d96-b93c-7537919345c3" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="25224424-a1b3-4670-ba16-46dd373ed6fb" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
@@ -80,20 +66,6 @@
       <IconImageDecorator Guid="7ee5e3b2-d507-4b2a-85a2-e8be7ba6d232" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c4fc36f3-760f-4106-92ac-a34a5b77b70d" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </CImage>
-  <ValueEntry Guid="94ccf7e1-98ff-47df-ba40-afafc33e8e9d" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Format="0" UnitShowing="1" Click="0" FrameStyle="2" ReplaceUnderscoresWithSpaces="0" X_PropType="0" X_Value="190" Y_PropType="0" Y_Value="40" Width_PropType="0" Width_Value="70" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="896e744a-52d0-4646-9779-616454f3d7f1" ConversionData_PropType="0" ConversionData_Value="c7364424-2998-4731-880a-857ffedff027">
-    <State Guid="700c5c94-18fe-48ab-9c5e-a919ee32fc9f" Name="Lower" Version="[1.1.0]">
-      <ColorDecorator Guid="e83b4980-5da5-4139-b162-dac2363a65f2" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="8e86eb5c-7dca-43e5-a937-c396292d5ef1" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="bb926ebb-7452-4a7b-bc30-0e89fcdf7eec" Name="Within" Version="[1.1.0]">
-      <ColorDecorator Guid="ba145333-a3fa-4c31-b4d4-8416853a6574" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="452dc42d-9c5a-407e-bd23-d419f897f392" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="8decaace-5a78-4ad3-98ab-6c5410877f07" Name="Upper" Version="[1.1.0]">
-      <ColorDecorator Guid="f2ebdf98-1245-482d-bc92-da4bdaf3c673" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="97b08498-f6e3-40b9-87d7-bbc5ace0170e" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-  </ValueEntry>
   <Text Guid="ec268d0f-7b7d-455a-9afc-8c4e1f7d4c59" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" X_PropType="0" X_Value="170" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20">
     <State Guid="6b3d6c72-2340-43be-90a4-e61ad3db5abd" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="d76c18c3-79f7-46f4-9aaa-ea278106f3f1" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -112,26 +84,26 @@
       <IconImageDecorator Guid="0370d881-33e1-438d-8555-50a56e97db22" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c4fc36f3-760f-4106-92ac-a34a5b77b70d" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </CImage>
-  <ValueEntry Guid="eec0f189-9a6d-41ed-81f9-7f7cf0254a14" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Format="0" UnitShowing="1" Click="0" FrameStyle="2" ReplaceUnderscoresWithSpaces="0" X_PropType="0" X_Value="320" Y_PropType="0" Y_Value="40" Width_PropType="0" Width_Value="70" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="913797f2-75e4-4d85-9375-059b2f323793" ConversionData_PropType="0" ConversionData_Value="c7364424-2998-4731-880a-857ffedff027">
-    <State Guid="4b0401a1-b573-48dd-b2b2-6c93aef6c714" Name="Lower" Version="[1.1.0]">
-      <ColorDecorator Guid="88815571-8d65-49b5-b6d8-59371e402104" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="56c50b61-6f05-4c63-b888-e586fa3eacf0" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="e6a5ffc3-4020-4720-95c1-52251ac9d0db" Name="Within" Version="[1.1.0]">
-      <ColorDecorator Guid="05892751-d86b-46b1-83c3-a903560119ec" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="788211b4-b74b-4462-8e73-dcf63ed0cdb4" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-    <State Guid="0c99c6f8-f02f-4c5f-bee4-f80a93352e29" Name="Upper" Version="[1.1.0]">
-      <ColorDecorator Guid="62be13b3-f1db-4406-84bf-05c6774808c1" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
-      <TextDecorator Guid="3c8efb7f-b4cb-44cf-8e49-2d051b37c874" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
-    </State>
-  </ValueEntry>
   <Text Guid="ebbe6a1e-6f0c-4071-96b7-de61bf43cfc9" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" X_PropType="0" X_Value="300" Y_PropType="0" Y_Value="40" Width_PropType="0" Width_Value="20" Height_PropType="0" Height_Value="20">
     <State Guid="369ba0f2-e789-41b6-aac3-f8f550b83e69" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="25392a06-6b90-4060-92e0-2aae41cd4733" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <TextDecorator Guid="0156188d-dcb1-4edf-84cd-4e2e781c22bb" ID="1" Font="[0,10,0]" Color="[255 233 233 233]" Blink="0" AlignH="0" AlignV="2" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="2a51eefd-b4b4-4521-a8e8-52d3770b6f32" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </Text>
+  <ValueEntry Guid="71e3217f-aaee-47bd-b4ca-d5002286dc7e" LockedPosition="0" ControlSet="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="" Anchor="5" Format="0" UnitShowing="1" Click="0" FrameStyle="2" ReplaceUnderscoresWithSpaces="0" X_PropType="0" X_Value="190" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="80" Height_PropType="0" Height_Value="20" MainData_PropType="1" MainData_Tag="8a060de2-0f08-40b4-9e7f-b599a97a64cc" ConversionData_PropType="0" ConversionData_Value="b4ed2334-b26d-4c6b-85f3-a4cc9f889242">
+    <State Guid="a7c26758-a3b3-4f01-94b7-a2fc7d3fa51f" Name="Lower" Version="[1.1.0]">
+      <ColorDecorator Guid="7ebfaca9-fe84-4461-95d4-17f330bd36b3" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="1e261235-3ad0-4093-9926-51faaf84399d" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <State Guid="d9378c90-b561-4561-9b77-2d081dca53e4" Name="Within" Version="[1.1.0]">
+      <ColorDecorator Guid="159d064b-b0fa-46d0-8685-e78b223c4fff" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="eb4268a1-08e8-4ef3-bd16-90d0eadd1fce" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <State Guid="e5a4b967-77c5-418d-806a-27bb356d43ac" Name="Upper" Version="[1.1.0]">
+      <ColorDecorator Guid="fdad9753-eadd-41b7-80f8-19e49bf91d58" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="090d8b8d-18a2-412a-b4a6-5e874dd3399b" ID="1" Font="[0,14,0]" Color="[255 255 255 255]" Blink="0" AlignH="0" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </ValueEntry>
   <ControlSet Guid="568e5fc4-83f2-405b-a4d4-159cfaac815d" Name="ControlSet" />
   <SSPC Guid="174e90ad-3011-427c-b08e-f1924ed28d0b" />
 </SubScreen>

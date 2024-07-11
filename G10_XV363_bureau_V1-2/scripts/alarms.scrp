@@ -1,7 +1,0 @@
-if (0.GVL_IO_XV.rTemperatureEst < 1)
-	#.alarmHorsGel := true;
-else
-	#.alarmHorsGel := false;
-endif
-
-#.Error0 := #.Bit0;
