@@ -1,5 +1,5 @@
 <TagManager Guid="4c2e9d72-9439-432e-a7ad-ce790ec59c62">
-  <Checksum Value="2168039105" />
+  <Checksum Value="4136966755" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="4ebc7627-b71a-4c92-b61a-8494b7ebfd15" Name="0. Modbus TCP">
@@ -13,11 +13,11 @@
           <TagAddress Guid="dc62ff16-818b-4704-bffe-2c71dea3b302" IsActive="0" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </SystemTag>
         <WordTag Guid="8d3d2b7b-2ced-4b3d-b6c4-392249494fb6" Name="TempEau" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
-          <LimitWord Guid="159067db-760c-4b2d-a6cb-c00720a8b19e" OpenLimit="1" Signed="1" PresetVal="0">
-            <LimitSettingIntegral Guid="ed77ec77-8ece-44e8-8c95-9903cf4f4cc0" Type="0" Id="0" Value="-32768" />
-            <LimitSettingIntegral Guid="8c1204b1-f130-4337-b284-211828527d7a" Type="0" Id="1" Value="-32768" />
-            <LimitSettingIntegral Guid="8a901d67-60a9-401a-8b23-82bc16d9e867" Type="0" Id="2" Value="32767" />
-            <LimitSettingIntegral Guid="2f555660-697f-4917-ad43-6b019a2f673a" Type="0" Id="3" Value="32767" />
+          <LimitWord Guid="159067db-760c-4b2d-a6cb-c00720a8b19e" OpenLimit="0" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="ed77ec77-8ece-44e8-8c95-9903cf4f4cc0" Type="0" Id="0" Value="0" />
+            <LimitSettingIntegral Guid="8c1204b1-f130-4337-b284-211828527d7a" Type="0" Id="1" Value="22" />
+            <LimitSettingIntegral Guid="8a901d67-60a9-401a-8b23-82bc16d9e867" Type="0" Id="2" Value="30" />
+            <LimitSettingIntegral Guid="2f555660-697f-4917-ad43-6b019a2f673a" Type="0" Id="3" Value="35" />
           </LimitWord>
           <TagAddress Guid="f95c27e1-7dfe-4fbf-8020-62410d2dc9e9" IsActive="1" Syntax="RI%d" Param1="1" Param2="" Param3="" Param4="" Param5="" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </WordTag>

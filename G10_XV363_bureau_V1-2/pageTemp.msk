@@ -1,0 +1,19 @@
+<StandardScreen Guid="90d56e35-9328-4450-892f-0b8f0e44a64f" Res="[800 600]" ScreenColor="[255 192 192 192]" ActiveSet="1dae57b7-4202-4266-9448-6a80f193a72d" Name="pageTemp" No="3" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
+  <Checksum Value="780031833" />
+  <Gauge Guid="c6f9af27-1b6a-4943-a837-71f390978590" LockedPosition="0" ControlSet="1dae57b7-4202-4266-9448-6a80f193a72d" Name="" Anchor="5" FrameStyle="2" CounterClockwise="0" StartAngle="315" OpenAngle="270" RangeArcWidt="10" RangesInside="1" UpperLimitColor="[255 255 0 0]" WithinLimitColor="[255 102 213 224]" LowerLimitColor="[255 0 80 255]" ShowColorRanges="1" ShowUpper="1" ShowWithin="1" ShowLower="1" ScaleInside="1" ShowScale="1" ShowCoarseScales="1" ShowMediumScales="1" ShowFineScales="1" CoarseScalesColor="[255 0 0 0]" MediumScalesColor="[255 0 0 0]" FineScalesColor="[255 0 0 0]" CoarseScalesLength="8" MediumScalesLength="8" FineScalesLength="4" CoarseScalesWidth="2" MediumScalesWidth="2" FineScalesWidth="1" ArrowColor="[255 255 109 109]" ArrowWidth="7" ArrowType="3" LengthCorrection="0" ArrowRotationPoint="0" CenterPointColor="[255 0 0 0]" CenterPointWidth="12" ArcColor="[255 0 0 0]" ArcWidth="1" DisplayCircularArc="1" ShowScaleText="1" ShowScaleInside="0" ScaleTextPossitionCorrection="0" ShowValueDisplay="0" ValueDisplayPosition="1" ValueDisplayType="1" ActiveSubdivision="b8b2c7b3-8b99-4f4d-85c8-f484ab60daac" X_PropType="0" X_Value="390" Y_PropType="0" Y_Value="130" Width_PropType="0" Width_Value="320" Height_PropType="0" Height_Value="260" MainData_PropType="1" MainData_Tag="8d3d2b7b-2ced-4b3d-b6c4-392249494fb6" ArrowImage_PropType="0" ConversionData_PropType="0" ConversionData_Value="b4ed2334-b26d-4c6b-85f3-a4cc9f889242">
+    <State Guid="592116d3-4778-4bf3-b5ae-ad670c2f5976" Name="GaugeState" Version="[1.1.0]">
+      <ColorDecorator Guid="8e882b4d-b39c-4a8a-96cd-21f28f534bc5" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <NoneDecorator Guid="73478982-ab31-4b7a-925a-8f592d849441" ID="1" />
+    </State>
+    <State Guid="adf1f686-f2e9-4092-b9c8-8dc536866fc2" Name="ScaleTextState" Version="[1.1.0]">
+      <ColorDecorator Guid="1ab2f020-882f-4179-9236-84c4cdbad196" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="809bb3c4-a8c1-4604-85bb-ceadc04b39c9" ID="1" Font="[0,12,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+    <GaugeSubdivision Guid="b8b2c7b3-8b99-4f4d-85c8-f484ab60daac" IsDefault="1" CoarseScalesDistance="10" MediumScalesDistance="5" FineScalesDistance="1" ScaleTextDistance="5" DecimalsInLabels="0" UseTagLimits="0" ValueType="1" ScalesValueType="1" Min_PropType="0" Min_Value="M:0" Max_PropType="0" Max_Value="M:35" />
+    <State Guid="308523ce-9129-4b3b-a2e8-2550552d4afa" Name="ValueDisplayTextState" Version="[1.1.0]">
+      <ColorDecorator Guid="e5b55ad2-03b6-4eef-ac04-189a76965cca" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="c9ad67b8-4920-4e78-bcfc-5547d3b5026f" ID="1" Font="[0,12,0]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="0" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </Gauge>
+  <ControlSet Guid="1dae57b7-4202-4266-9448-6a80f193a72d" Name="ControlSet" />
+</StandardScreen>

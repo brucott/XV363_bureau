@@ -27,6 +27,7 @@
 		<standard Guid="a801fca1-b91d-4591-8557-d50b3f05bcf1" textID="23"><![CDATA[Temp. eau]]></standard>
 		<standard Guid="27a7967e-a6dc-4326-95c1-7d0d29cf17b2" textID="24"><![CDATA[EAU]]></standard>
 		<standard Guid="02c48840-f397-4564-85f2-d1bfd3ff1c6a" textID="25"><![CDATA[AIR]]></standard>
+		<standard Guid="24bc8e47-c867-4a22-8b1f-b3b9a2934266" textID="26"><![CDATA[Temp. exterieure C°]]></standard>
 		<error Guid="3b4539b0-2103-4261-9d81-3908c30e1e6c" textID="0"><![CDATA[Piscine en mode "hors gel"]]></error>
 		<error Guid="384fea2f-fc0a-4756-89b4-8487f70375fe" textID="1"><![CDATA[Alarm test]]></error>
 	</texts>
