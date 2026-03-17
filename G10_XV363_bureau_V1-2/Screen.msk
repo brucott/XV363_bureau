@@ -1,0 +1,4 @@
+<StandardScreen Guid="bb189dff-4799-4ec5-a897-79fcc5f09ea8" Res="[800 600]" ScreenColor="[255 192 192 192]" ActiveSet="69f0fbc3-7768-49b5-80df-0cb2b99ad2de" Name="Screen" No="5" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
+  <Checksum Value="2426670909" />
+  <ControlSet Guid="69f0fbc3-7768-49b5-80df-0cb2b99ad2de" Name="ControlSet" />
+</StandardScreen>

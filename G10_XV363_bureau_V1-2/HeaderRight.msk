@@ -1,0 +1,17 @@
+<SubScreen Guid="60517945-7ac7-4234-a0c0-542202c918b2" Res="[100 40]" ScreenColor="[0 255 255 255]" ActiveSet="65faf47d-19cf-4437-bcdc-d8094b362d49" Name="HeaderRight" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="216035840" />
+  <TimeDate Guid="11034bd5-3bfe-47c4-9611-75f96d7e0044" LockedPosition="0" ControlSet="65faf47d-19cf-4437-bcdc-d8094b362d49" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="DD.MM.YYYY" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="100" Height_PropType="0" Height_Value="20">
+    <State Guid="955ff214-0a5a-40c7-b217-198fac7f66af" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="cdf96b55-54f5-478c-b47a-33a86298d5ca" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="feaa9d51-853e-4836-b3f2-5ad5aa61f44d" ID="1" Font="[0,14,1]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </TimeDate>
+  <TimeDate Guid="fe73293c-9da3-44ba-afb6-18c24d456c28" LockedPosition="0" ControlSet="65faf47d-19cf-4437-bcdc-d8094b362d49" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="hh:mm:ss" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="20" Width_PropType="0" Width_Value="100" Height_PropType="0" Height_Value="20">
+    <State Guid="60333248-4b6a-4d31-8d51-62e042894855" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="8bfcec28-6079-4f63-985b-7ed2e58f55d1" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="b6718b13-96c5-4aa9-abba-c6b76e2eb6eb" ID="1" Font="[0,14,1]" Color="[255 255 255 255]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </TimeDate>
+  <ControlSet Guid="65faf47d-19cf-4437-bcdc-d8094b362d49" Name="ControlSet" />
+  <SSPC Guid="38ab8bfd-54aa-4432-8e2f-9ef2dc0f9378" />
+</SubScreen>

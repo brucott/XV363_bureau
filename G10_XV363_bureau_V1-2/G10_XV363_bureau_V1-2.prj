@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<ProjectData Guid="c2c5364b-1a4f-4933-8bc2-f0c29ede050b" Version="[10.6.0]" GalileoVersion="Galileo (10.6.8.46693)" ProjectType="0">
-  <Checksum Value="2097957683" />
+<ProjectData Guid="c2c5364b-1a4f-4933-8bc2-f0c29ede050b" Version="[10.6.0]" GalileoVersion="Galileo (10.6.12.47434)" ProjectType="0">
+  <Checksum Value="201910714" />
   <VisualizationManager Guid="6502359e-4563-41cf-bd49-e5b900fe7b0e" ActiveVisu="2ec61295-6a88-4a60-adac-edef890551bc" LocalVisu="f7bfec8c-fc95-43f5-abbe-26161df1e8b4">
     <VisualizationGroup Guid="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="0e05860e-3eaa-469d-a2ad-579321846a2b">
       <Visualization Guid="2ec61295-6a88-4a60-adac-edef890551bc" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="1e4cb458-2e05-4f93-a13e-70148c167cae" AutoDisconnectTimeInSeconds="0">
@@ -13,13 +13,18 @@
           <ScreenFolderRootNew Guid="5b4623e9-be5c-4324-8979-2c0f7392e4b9" Name="" Type="1">
             <ScreenRef Guid="1e4cb458-2e05-4f93-a13e-70148c167cae" Name="Start" />
             <ScreenRef Guid="34ddba23-e6d5-483e-af41-d1a52388d0b5" Name="temperatures" />
-            <ScreenRef Guid="aa41c2f2-4055-4442-b4bb-b967c8b1f5c4" Name="piscine" />
-            <ScreenRef Guid="90d56e35-9328-4450-892f-0b8f0e44a64f" Name="pageTemp" />
+            <ScreenRef Guid="aa41c2f2-4055-4442-b4bb-b967c8b1f5c4" Name="piscine2" />
+            <ScreenRef Guid="90d56e35-9328-4450-892f-0b8f0e44a64f" Name="aquarium" />
+            <ScreenRef Guid="205ac3b0-909a-4aa8-b232-173ca97f36b8" Name="piscine" />
+            <ScreenRef Guid="bb189dff-4799-4ec5-a897-79fcc5f09ea8" Name="Screen" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="8f345af1-a736-4f1c-8347-a44e1d12a042" Name="" Type="3" />
           <ScreenFolderRootNew Guid="1bb1b305-451d-4661-9b40-b0933e06e1b2" Name="" Type="4" />
           <ScreenFolderRootNew Guid="3b57c318-3f97-4caf-9036-90691f85a916" Name="" Type="2">
             <ScreenRef Guid="bdd447f1-426e-4afe-8282-7ab50f82cd7f" Name="UserControl" />
+            <ScreenRef Guid="5ae53760-6af7-4012-962a-8654082ef67e" Name="HeaderLeft" />
+            <ScreenRef Guid="d58ab1d3-5dfd-40f9-b652-9a9aceb746ff" Name="SideMenu" />
+            <ScreenRef Guid="60517945-7ac7-4234-a0c0-542202c918b2" Name="HeaderRight" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="c0ace6e7-f488-47b4-b993-95eb366ba2f8" Name="" Type="5" />
           <ScreenFolderRootNew Guid="f737d2ae-b0de-4162-9137-4e0c3a45ea3b" Name="" Type="6">
@@ -38,6 +43,9 @@
         <ScreenFolderNew Guid="d202d036-46bf-4366-b065-1f3e12281cbc" Name="" Type="-1">
           <ScreenFolderRootNew Guid="07f0b0b1-e0dc-417e-a7e7-c88ed124809d" Name="" Type="1">
             <ScreenRef Guid="deece2c9-9c3b-47df-88cc-ca73222336d9" Name="Screen" />
+            <ScreenRef Guid="1faa356e-2309-464b-9e2a-b19b5b5bdbbb" Name="Piscine" />
+            <ScreenRef Guid="54043447-e471-4013-8a71-413d9dfcf7e8" Name="Aquarium" />
+            <ScreenRef Guid="1444f0f9-f8f7-4b9b-9744-b9fcdecf8507" Name="meteo" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="7d8eb084-0202-43f3-85cf-5106bb4a2b03" Name="" Type="3" />
           <ScreenFolderRootNew Guid="71e9be71-700b-433a-9cfd-8e3564e791a8" Name="" Type="4" />
@@ -49,33 +57,33 @@
     </VisualizationGroup>
     <SystemKeyboardsManager Guid="16b42fe3-9f08-4633-9e2f-834c43650711" OverrideStyles="0" OverrideBackgroundColor="0" SysKeybBackColor="[255 255 255 255]">
       <KeyboardOptions Guid="a03bb7e1-d0ba-42e8-bc6e-b3b065bd2d1c" PName="KeyboardOptions" IsActive="1" PaleScreen="1" FixedPosition="0" RememberLastPosition="0" DefaultPosition="0" DisplayAsPassword="0" ShowPassword="0" />
-      <SysKbStyleMapping Guid="324fe65a-8ac9-4a7a-92c0-0796b0a3612a" SourceStyleGuid="03fa61c9-777a-49f9-85d0-1ea0c6913990" />
-      <SysKbStyleMapping Guid="349326e5-2ccb-4ca7-aa5f-fd7eeb598f51" SourceStyleGuid="56f1c807-279e-46f4-9f3a-660b099b6a03" />
-      <SysKbStyleMapping Guid="64b2ac63-f69c-401d-a8cb-1b0518e67bb5" SourceStyleGuid="ebbc0382-4fe2-4b7e-92b5-e7ca4a0c0e46" />
-      <SysKbStyleMapping Guid="2311ec74-5836-4a9a-9a62-57ffdd41245d" SourceStyleGuid="5abb2195-1510-4de6-a4e1-147a28a3578b" />
-      <SysKbStyleMapping Guid="072c31f8-72e7-4528-9419-333d67f1f500" SourceStyleGuid="00688495-7e8e-4ded-96a3-a0f5250430eb" />
-      <SysKbStyleMapping Guid="b213a696-1bbe-4149-aeff-a1c710ebd3dc" SourceStyleGuid="8548104a-71d1-4d09-9f38-0a0fb3194971" />
-      <SysKbStyleMapping Guid="bac68e0d-b8e6-4a75-975e-9cf62f48c4fe" SourceStyleGuid="1afeb758-4589-40af-894e-21295cd55efc" />
+      <SysKbStyleMapping Guid="f5500bd5-0c30-4c46-af97-617bf914d5dd" SourceStyleGuid="39541c9f-3f0e-4fc4-962b-fefda688bda2" />
+      <SysKbStyleMapping Guid="91d5a6e3-7d02-4bd4-bbd1-ff3f42c921dd" SourceStyleGuid="a1c133ec-4435-4563-abb4-c2c5b047a87d" />
+      <SysKbStyleMapping Guid="83634cee-547d-428f-adf3-c6c13cd1172b" SourceStyleGuid="2da3904c-889e-4e20-af09-c56b6606ef6d" />
+      <SysKbStyleMapping Guid="eb17737a-7455-4a08-b2da-917bd163ccac" SourceStyleGuid="2b00f381-79bd-48cc-a617-70d0e0d4ae8a" />
+      <SysKbStyleMapping Guid="bdf0fbac-393f-4471-a1d5-94571e72d110" SourceStyleGuid="c974ad16-219e-4fe5-9533-9ca56fe51a65" />
+      <SysKbStyleMapping Guid="e6ab3238-4d02-40df-93e2-bb9ed90734be" SourceStyleGuid="3f911294-d48b-4bd8-a860-7c73c56dcb14" />
+      <SysKbStyleMapping Guid="5c2087be-cd34-478d-b05f-35eb370ef969" SourceStyleGuid="027c57a2-1811-418b-9f0e-f0f3b7a44342" />
     </SystemKeyboardsManager>
   </VisualizationManager>
-  <LanguageManager Guid="2318cea9-191e-4ed3-944c-36bad5f341b0" NextFreeGlobalID="3">
-    <Language Guid="3a3cfeb9-12d6-4bdd-a345-53e5d55da7f2" LanguageName="Language 0" Id="0" Enabled="1" Default="1" SysKeyboard="en_US" SysMsgLanguage="40f13c75-af39-4d47-a22a-90aea9ef2321" PrintFont="[0,10,0]">
+  <LanguageManager Guid="2318cea9-191e-4ed3-944c-36bad5f341b0" NextFreeGlobalID="4">
+    <Language Guid="3a3cfeb9-12d6-4bdd-a345-53e5d55da7f2" LanguageName="Language 0" Id="0" Enabled="1" Default="1" SysKeyboard="fr_FR" SysMsgLanguage="40f13c75-af39-4d47-a22a-90aea9ef2321" PrintFont="[0,10,0]">
       <FontElement Guid="b8eafcbc-4413-495c-b0b5-d5164f1db723" FontName="Arial" Factor="100" />
       <FontElement Guid="131a75af-0cee-4dda-b9ef-8081473994cd" FontName="NI7SEG" Factor="100" />
-      <FontElement Guid="279ceddf-dc4c-46ba-9541-225b078f45f1" FontName="Seven Segment" Factor="100" />
+      <FontElement Guid="3908d2d2-2284-4d19-bd13-7ea88acad5b3" FontName="Arial" Factor="100" />
     </Language>
     <FontIdMapper>
       <KeyValue Key="0" Value="0" />
       <KeyValue Key="1" Value="1" />
-      <KeyValue Key="2" Value="2" />
+      <KeyValue Key="3" Value="2" />
     </FontIdMapper>
     <FontFileMapper>
       <StringKeyValue StringKey="ni7seg" StringValue="C:\Windows\Fonts\Ni7seg.ttf" />
       <StringKeyValue StringKey="ni7seg*%bold%*" StringValue="C:\Windows\Fonts\Ni7seg.ttf" />
       <StringKeyValue StringKey="ni7seg*%italic%*" StringValue="C:\Windows\Fonts\Ni7seg.ttf" />
-      <StringKeyValue StringKey="seven segment" StringValue="" />
-      <StringKeyValue StringKey="seven segment*%bold%*" StringValue="" />
-      <StringKeyValue StringKey="seven segment*%italic%*" StringValue="" />
+      <StringKeyValue StringKey="seven segment" StringValue="C:\Users\bruno\Downloads\7 Segment.ttf" />
+      <StringKeyValue StringKey="seven segment*%bold%*" StringValue="C:\Users\bruno\Downloads\7 Segment.ttf" />
+      <StringKeyValue StringKey="seven segment*%italic%*" StringValue="C:\Users\bruno\Downloads\7 Segment.ttf" />
     </FontFileMapper>
   </LanguageManager>
   <TextManager Guid="c4780aa5-ca2b-48a8-9bf6-00420c9cff5a">
@@ -106,6 +114,23 @@
     <StandardText Guid="27a7967e-a6dc-4326-95c1-7d0d29cf17b2" TextId="24" />
     <StandardText Guid="02c48840-f397-4564-85f2-d1bfd3ff1c6a" TextId="25" />
     <StandardText Guid="24bc8e47-c867-4a22-8b1f-b3b9a2934266" TextId="26" />
+    <StandardText Guid="51aff956-208a-4c89-81b5-186190e6809b" TextId="27" />
+    <StandardText Guid="bb71dd28-8f41-4d72-9e70-95160b38597f" TextId="28" />
+    <StandardText Guid="f22e7f2e-d75f-459e-bd63-a13cefbfd10c" TextId="29" />
+    <StandardText Guid="358fbee9-6800-42b0-94ad-f31c7336a817" TextId="30" />
+    <StandardText Guid="5cf6fbaf-c699-4d25-9f7c-91ec4521700f" TextId="31" />
+    <StandardText Guid="3435c2c5-0573-41f0-807f-921ef12e5c66" TextId="32" />
+    <StandardText Guid="c007da1a-e14f-4c21-afb0-f443b1c392a9" TextId="33" />
+    <StandardText Guid="9a417ac2-7818-4686-8b8e-81c7d516c4be" TextId="34" />
+    <StandardText Guid="4b512d8a-03d3-46d4-8312-202ab599006e" TextId="35" />
+    <StandardText Guid="a273e380-b168-45d4-bc7c-6bf7a3344189" TextId="36" />
+    <StandardText Guid="4ea44e5d-ded9-41d9-b63c-edcf0b0317ee" TextId="37" />
+    <StandardText Guid="0a0e3a31-734f-4286-bdb3-35a6405c557b" TextId="38" />
+    <StandardText Guid="4c0c00aa-cceb-42fe-93c7-07a3e8a1a55a" TextId="39" />
+    <StandardText Guid="dc218318-324f-4587-9866-6a388bbfc41d" TextId="40" />
+    <StandardText Guid="0f8f262e-d62c-4dc7-a063-d5d15f5cd9cd" TextId="41" />
+    <StandardText Guid="9d5caa31-6e37-40e1-848d-de3aa5538f9e" TextId="42" />
+    <StandardText Guid="5138bb7f-73e6-4ff2-beb2-993f97885ee0" TextId="43" />
     <ErrorText Guid="3b4539b0-2103-4261-9d81-3908c30e1e6c" TextId="0" />
     <ErrorText Guid="384fea2f-fc0a-4756-89b4-8487f70375fe" TextId="1" />
   </TextManager>
@@ -129,8 +154,13 @@
         <SvgPicture Guid="39c3f0fb-8c08-40cc-b1bf-604700f3bda2" FileName="Calendar.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="c5f50491-c07e-43ae-8303-68edf4697972" FileName="HeatIndicator.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="c4fc36f3-760f-4106-92ac-a34a5b77b70d" FileName="HeatIndicator2.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="80db4e3d-3a21-44fa-abe2-7440ba9ed32b" FileName="HeatIndicator2_0.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="b5bb43d4-8ac9-4524-bdc1-c549b4c22130" FileName="HeatIndicator_0.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="8a0d068b-bcc4-4b6a-b2ec-9985ec539005" FileName="Home.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="ddd195e0-3bd4-4484-a026-0ff4dda48fd9" FileName="Humidity.svg" InsetH="0" InsetV="0" />
+        <Picture Guid="65137642-10fe-4d95-bb37-7b8d9db0dc23" FileName="images_Photoroom.png" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="6ae6183b-da0e-4d49-8607-b40d405d37fc" FileName="Menu.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="9ae841ef-2eef-4e77-97d6-04d3d339167d" FileName="Menu_0.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="ebaf8286-e239-45e3-b60b-a288f2e9cf70" FileName="NavigationType1.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="181c94d0-2ffc-49dd-81a5-2abf4e7ed9f7" FileName="NavigationType2.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="594059a4-97e6-4516-be0a-93770f8a7f2a" FileName="NavigationType2Inverted.svg" InsetH="0" InsetV="0" />
@@ -141,7 +171,10 @@
         <SvgPicture Guid="3cee60a3-976b-4fd7-9a59-dd9e38446778" FileName="NavigationType7.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="332d0e49-b391-4e11-a003-20f48168078e" FileName="NavigationType8.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="cda2e954-36eb-47e4-b69a-7a48f66ed25f" FileName="Pan.svg" InsetH="0" InsetV="0" />
+        <Picture Guid="66e2d525-cf73-4d24-887c-80b4cb550f6a" FileName="pump.png" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="33c2faee-b29c-4af1-be79-b54e1a911c1c" FileName="Pump.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="42eb9ce4-c670-4ee1-b580-a8581bb9e01c" FileName="RemoveSmallInverted.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="f883efda-ede9-46d4-8a8d-c32710d4e5df" FileName="Return.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="2cefbd26-43b3-4dcb-b437-11224c4a4d1f" FileName="Search.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="a9ba6a0c-4af3-4011-aec3-a1db04fa58c8" FileName="ShutDown.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="1fbab5bf-4fb3-4a0c-addc-62283eb5b255" FileName="ShutDownSmall.svg" InsetH="0" InsetV="0" />
@@ -166,15 +199,20 @@
         <SvgPicture Guid="5cfd831d-45c8-4590-845d-b31aeaffcaf2" FileName="ZoomIn.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="83ac9be5-39d7-45dd-9cc3-cc6e5eb06fad" FileName="ZoomOut.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="34c2907b-30d2-469f-accd-20ed064baf67" FileName="ZoomReset.svg" InsetH="0" InsetV="0" />
+        <Picture Guid="4cf816a0-45a3-4e18-a7e5-d33ed216251f" FileName="_1979336_200.png" InsetH="0" InsetV="0" />
+        <Picture Guid="12a3ee8e-08c6-46fb-9da3-79d59b9b7453" FileName="_596421.png" InsetH="0" InsetV="0" />
+        <Picture Guid="a9f53c8d-8c29-40fe-aa9d-28b667565973" FileName="_858967.png" InsetH="0" InsetV="0" />
       </PictureFolder>
       <PictureFolder Guid="54a7d832-bb5a-417f-88c9-588b06059ed0" Name="images">
+        <Picture Guid="e9372070-9390-4bbf-846f-e88748e25fbf" FileName="Cercle_noir_100__svg.png" InsetH="0" InsetV="0" />
         <Picture Guid="301ec093-410c-464c-abaa-83a26782e0a9" FileName="CircledButtonGreen.png" InsetH="0" InsetV="0" />
         <Picture Guid="373f6cd3-43e7-4e1e-a2bd-784ccfc4cdce" FileName="CircledButtonRed.png" InsetH="0" InsetV="0" />
+        <Picture Guid="85a26877-9199-4f5d-95fc-c9c0bf7ae4e0" FileName="meteo.png" InsetH="0" InsetV="0" />
         <Picture Guid="e06b1469-2793-4a8b-b85e-7d65a5895785" FileName="RemoteClientIcon.png" InsetH="0" InsetV="0" />
       </PictureFolder>
     </PictureFolder>
   </PictureManager>
-  <ProjectSettings Guid="4b447c2c-5e7f-44f5-9609-5d88fdbb42b4" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" GridSize="10" GridColor="[255 0 0 255]" ShowGrid="1" GridStyle="1" SnapToObjects="1" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="37e8ec24-25f8-48a5-88d0-ef22304e4214" SysKeybDisplayStyle="64307980-bb7f-4c1a-be36-6a3e3593814c" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" DelayedEntryScript="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data\" RecentUsedColors="[255 102 213 224], [255 255 255 0], [255 0 255 0], [255 255 255 255], [255 0 80 255], [255 0 0 0], [255 255 0 0], [255 0 155 0], [255 0 130 0], [255 148 148 148]" RecentUsedIconLibColors="[255 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0">
+  <ProjectSettings Guid="4b447c2c-5e7f-44f5-9609-5d88fdbb42b4" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" GridSize="10" GridColor="[255 0 0 255]" ShowGrid="1" GridStyle="1" SnapToObjects="1" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="37e8ec24-25f8-48a5-88d0-ef22304e4214" SysKeybDisplayStyle="64307980-bb7f-4c1a-be36-6a3e3593814c" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" DelayedEntryScript="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data\" RecentUsedColors="[255 130 71 187], [255 255 255 255], [255 85 85 85], [255 192 192 192], [255 233 233 233], [255 0 255 0], [0 0 0 0], [255 0 0 0], [255 169 169 169], [255 31 120 180]" RecentUsedIconLibColors="[255 255 255 255], [255 0 0 0], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0">
     <AppearanceNoFrame Guid="4bc8ebab-a619-47d7-8596-0392c36e63f8" SelFrameWidth="1" />
     <Appearance2DFrame Guid="e9f426e3-8aab-4e86-ae30-7c62ec886e98" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" FrameWidth="1" SelFrameWidth="2" />
     <Appearance3DFrame Guid="d64838dd-2ab1-4056-b2c1-258a66efe79c" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" ShadowTLOn="[255 0 0 0]" ShadowTLOff="[255 255 255 255]" ShadowBROn="[255 211 211 211]" ShadowBROff="[255 128 128 128]" FrameWidth="0" ShadowWidth="2" DispShadowWidth="2" />
@@ -324,10 +362,12 @@
   </StyleManager>
   <PlcDataManager Guid="eaf08a16-f9f6-4b80-8b3a-ae56a3357981">
     <GPanelCommunication Guid="a3c01850-34f0-4efe-99b2-0335cfc14fe0" CommKey="0" CommunicationId="104" EndianMode="64" MemoryAlignment="1" StringTermination="2" StringEncoding="0" CommunicationDescription="XV_piscine" Param0="0" Param1="0" Param2="10" Param3="1" Param4="502" Param5="0" Param6="0" Param7="0" Param8="5" StringParam9="192.168.0.30" StringParam10="" Param11="50" AdditionalParameters="" AddressDelimiter="" AddressPrefix="" />
+    <GPanelCommunication Guid="e036ea87-4866-487e-b855-1c7a6dfa9165" CommKey="1" CommunicationId="162" EndianMode="32" MemoryAlignment="1" StringTermination="2" StringEncoding="0" CommunicationDescription="EASY_aquarium" Param0="0" Param1="1" Param2="10" Param3="0" Param4="502" Param5="0" Param6="0" Param7="0" Param8="5" StringParam9="192.168.0.40" StringParam10="" Param11="50" AdditionalParameters="" AddressDelimiter="" AddressPrefix="" />
     <GPanel Guid="6470b62e-fc0f-4f9f-ba10-9b7393b0c2d7" PanelId="152" PanelName="XV-363-12-C02" BrandId="564" XResolution="800" YResolution="600" IniFileName="xv300.ini" Orientation="1">
       <GPanelConnection Guid="1dfb74ad-62a0-4487-b98a-fe804d253891" Description="Ethernet">
         <ConnectedCommunications>
           <CommunicationRef Guid="a3c01850-34f0-4efe-99b2-0335cfc14fe0" />
+          <CommunicationRef Guid="e036ea87-4866-487e-b855-1c7a6dfa9165" />
         </ConnectedCommunications>
       </GPanelConnection>
       <GPanelConnection Guid="dec1d89d-3317-4914-875d-eadd1c4a1aff" Description="Ethernet2">
@@ -354,20 +394,33 @@
     </GPanel>
   </PlcDataManager>
   <ConversionManager Guid="11a72281-f608-4f79-b93a-0207bd53126f">
-    <ConversionGroup Guid="c7364424-2998-4731-880a-857ffedff027" Name="temperature">
-      <Conversion Guid="4d616cf7-425e-41cf-90d3-c08876d5a3eb" Name="decimal" CalcType="0" LeadingZeros="1" Digits="2" Dec="1" Multi="10" Div="10" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
-    </ConversionGroup>
-    <ConversionGroup Guid="585fe7a9-145f-4dc5-bedf-b8467be99df5" Name="temperature2">
-      <Conversion Guid="bb8c1770-98d9-4f70-80a8-6e9d70eb775c" Name="Conversion0" CalcType="1" LeadingZeros="0" Digits="0" Dec="0" Multi="1" Div="100" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
-    </ConversionGroup>
     <ConversionGroup Guid="b4ed2334-b26d-4c6b-85f3-a4cc9f889242" Name="temperaturesXvPiscine">
-      <Conversion Guid="017eeca8-ba28-48a2-80cf-356c15531cc4" Name="WordToFloat" CalcType="1" LeadingZeros="0" Digits="3" Dec="2" Multi="1" Div="1" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
+      <Conversion Guid="017eeca8-ba28-48a2-80cf-356c15531cc4" Name="WordToFloat" CalcType="0" LeadingZeros="0" Digits="3" Dec="2" Multi="100" Div="1" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
+    </ConversionGroup>
+    <ConversionGroup Guid="c8dfb72a-7084-4b66-be63-9399c98d2990" Name="PLCtoMMI">
+      <Conversion Guid="18fb220f-c00d-4405-b075-70b619c71b66" Name="avecUnit" CalcType="0" LeadingZeros="0" Digits="5" Dec="2" Multi="1" Div="1" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
+    </ConversionGroup>
+    <ConversionGroup Guid="b0eaecdc-de74-4bed-8fe9-b4bdf6eb02b8" Name="test">
+      <Conversion Guid="0a49b78f-3c0f-48e4-8213-a4252c1620d4" Name="Conversion0" CalcType="1" LeadingZeros="0" Digits="3" Dec="1" Multi="1" Div="10" Offset="0" />
+    </ConversionGroup>
+    <ConversionGroup Guid="5d183af5-8c3e-47a7-8d6d-d2b66475db55" Name="Temp_Komp">
+      <Conversion Guid="1a94be7b-47be-41ba-9ee9-6d019bbc0516" Name="Celsius" CalcType="0" LeadingZeros="0" Digits="2" Dec="1" Multi="1" Div="1" Offset="0" />
+      <Conversion Guid="2fa46a81-06e4-441d-9ed7-f60aad5974e6" Name="Fahrenheit" CalcType="1" LeadingZeros="0" Digits="2" Dec="0" Multi="9" Div="50" Offset="32" />
+    </ConversionGroup>
+    <ConversionGroup Guid="bc03ab7f-910f-4b44-a076-cc94df24302d" Name="Humidity">
+      <Conversion Guid="79de57b0-2bee-4f9c-894a-f42575b68caf" Name="Conversion0" CalcType="0" LeadingZeros="0" Digits="3" Dec="1" Multi="1" Div="1" Offset="0" Unit="5cf6fbaf-c699-4d25-9f7c-91ec4521700f" />
+    </ConversionGroup>
+    <ConversionGroup Guid="8d56b120-a01f-437d-b458-f0de1f77d1f0" Name="Temperature">
+      <Conversion Guid="05283671-8423-4a59-bec9-b70e398352f6" Name="Conversion0" CalcType="0" LeadingZeros="0" Digits="3" Dec="2" Multi="1" Div="1" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
+    </ConversionGroup>
+    <ConversionGroup Guid="f015c965-6e39-4db2-8b50-9c670ba08432" Name="temperatureAquarium">
+      <Conversion Guid="7d413760-4d51-4d01-89d2-5da8244f4378" Name="Conversion0" CalcType="0" LeadingZeros="0" Digits="2" Dec="1" Multi="1" Div="1" Offset="0" Unit="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" />
     </ConversionGroup>
   </ConversionManager>
   <ParamListManager Guid="0c8a01f9-7a15-41af-b4ae-b10c9337132d" />
   <GraphBlockManager Guid="8f3f6e3e-7dac-4791-be29-5acd768d0ae2">
     <GraphFolder Guid="96927590-b9d2-4006-a688-25b6b0aaef0a">
-      <GraphBlock Guid="18b223a1-cb6e-43b9-9a2d-1b24ff85ad50" Samples="60" Number="0" AditionalSamplesAfterStop="0" BlocksName="TOR" ResetBehavior="0" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="0" Directory="" NumberOfArchives="1" SaveContinuously="0" LoadLastAtStartUp="0" TimeSpan_PropType="0" TimeSpan_Value="M:60" ArchiveName_PropType="0" ArchiveName_Value="">
+      <GraphBlock Guid="18b223a1-cb6e-43b9-9a2d-1b24ff85ad50" Samples="10080" Number="0" AditionalSamplesAfterStop="0" BlocksName="TOR" ResetBehavior="1" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="2" Directory="" NumberOfArchives="1" SaveContinuously="1" LoadLastAtStartUp="1" TimeSpan_PropType="0" TimeSpan_Value="M:60" ArchiveName_PropType="0" ArchiveName_Value="@start_datetime@">
         <TagList Guid="0e4b7389-8198-491a-ae6c-c61372b9f41e" PName="Tags">
           <InnerTagList>
             <TagRef Guid="f50bbc1c-91dd-41cb-b29e-1002bce7f5d1" />
@@ -376,22 +429,76 @@
         </TagList>
         <SharedVal_Guid_ScreenRef Name="SaveAsScreen">
           <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
         </SharedVal_Guid_ScreenRef>
         <SharedVal_Guid_ScreenRef Name="SaveScreen">
           <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
         </SharedVal_Guid_ScreenRef>
         <SharedVal_Guid_ScreenRef Name="LoadScreen">
           <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
         </SharedVal_Guid_ScreenRef>
         <SharedVal_Guid_ScreenRef Name="DeleteScreen">
           <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
         </SharedVal_Guid_ScreenRef>
       </GraphBlock>
-      <GraphBlock Guid="c20fc2f1-4deb-420c-aee6-9eedc14a296e" Samples="60" Number="1" AditionalSamplesAfterStop="0" BlocksName="ANA" ResetBehavior="0" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="0" Directory="" NumberOfArchives="1" SaveContinuously="0" LoadLastAtStartUp="0" TimeSpan_PropType="0" TimeSpan_Value="M:60" ArchiveName_PropType="0" ArchiveName_Value="">
+      <GraphBlock Guid="c20fc2f1-4deb-420c-aee6-9eedc14a296e" Samples="96" Number="1" AditionalSamplesAfterStop="0" BlocksName="ANA" ResetBehavior="1" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="2" Directory="\Storagecard\graphs\" NumberOfArchives="365" SaveContinuously="1" LoadLastAtStartUp="1" TimeSpan_PropType="0" TimeSpan_Value="M:900" ArchiveName_PropType="0" ArchiveName_Value="@start_datetime@_temperatures">
         <TagList Guid="9138ceb7-d5a0-4671-ab48-37b7883e8343" PName="Tags">
           <InnerTagList>
             <TagRef Guid="8a060de2-0f08-40b4-9e7f-b599a97a64cc" />
             <TagRef Guid="8d3d2b7b-2ced-4b3d-b6c4-392249494fb6" />
+          </InnerTagList>
+        </TagList>
+        <SharedVal_Guid_ScreenRef Name="SaveAsScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="SaveScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="LoadScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="DeleteScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+      </GraphBlock>
+      <GraphBlock Guid="ec6ef3f1-2979-4f72-9ec3-1f3f21a288df" Samples="10080" Number="2" AditionalSamplesAfterStop="0" BlocksName="Temperatures" ResetBehavior="1" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="0" Directory="" NumberOfArchives="1" SaveContinuously="0" LoadLastAtStartUp="0" TimeSpan_PropType="0" TimeSpan_Value="M:1800" ArchiveName_PropType="0" ArchiveName_Value="">
+        <TagList Guid="7bea450f-d9f0-4fe8-8118-c53a1f35d3d2" PName="Tags">
+          <InnerTagList>
+            <TagRef Guid="cb7e5ae9-7d95-4871-a201-5306a630f1bb" />
+            <TagRef Guid="ebd4ee5d-da61-43e4-9c3e-062ad173d726" />
+            <TagRef Guid="0ec043aa-6b18-45e9-8cb1-7f0f2aa05f89" />
+            <TagRef Guid="e2d94eec-858b-4b2f-b20f-ec18af7fe128" />
+            <TagRef Guid="c35a391c-e58e-40d8-bda2-8bc624cb6611" />
+          </InnerTagList>
+        </TagList>
+        <SharedVal_Guid_ScreenRef Name="SaveAsScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="SaveScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="LoadScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+        <SharedVal_Guid_ScreenRef Name="DeleteScreen">
+          <Val_Key_Guid_ScreenRef Key="f7bfec8c-fc95-43f5-abbe-26161df1e8b4" />
+          <Val_Key_Guid_ScreenRef Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" />
+        </SharedVal_Guid_ScreenRef>
+      </GraphBlock>
+      <GraphBlock Guid="f5b1f79a-b3c0-4014-807b-6954746a3829" Samples="10000" Number="3" AditionalSamplesAfterStop="0" BlocksName="aquarium" ResetBehavior="1" StartIfTag="6610b2b2-a216-4327-9783-7757fad6cf78" StartIfEnabled="1" StopIfEnabled="0" StartIfValue="M:1" StopIfValue="M:0" StartOperator="0" StopOperator="0" FileLocation="0" Directory="" NumberOfArchives="1" SaveContinuously="0" LoadLastAtStartUp="0" TimeSpan_PropType="0" TimeSpan_Value="M:60" ArchiveName_PropType="0" ArchiveName_Value="">
+        <TagList Guid="627aca7f-ef7e-45c8-a421-55ada3886afb" PName="Tags">
+          <InnerTagList>
+            <TagRef Guid="bb7ac16b-fe49-4b12-8bf7-c560ddce4c47" />
           </InnerTagList>
         </TagList>
         <SharedVal_Guid_ScreenRef Name="SaveAsScreen">
@@ -458,14 +565,25 @@
     <SysMsgLanguage Guid="40f13c75-af39-4d47-a22a-90aea9ef2321" LangName="English" />
   </SysMsgManager>
   <ScriptManager2 Guid="81c335bc-e211-40f8-8231-832c13bcc5e5">
-    <ScriptFileNames />
-    <ScriptRootFolder Guid="a03c4bc7-9a2b-45a6-848e-2700953e816a" />
+    <ScriptFileNames>
+      <Gs Guid="230df4b5-81d5-4379-8ca3-c518c560014c" str="script" />
+    </ScriptFileNames>
+    <ScriptRootFolder Guid="a03c4bc7-9a2b-45a6-848e-2700953e816a">
+      <GScript2 Guid="230df4b5-81d5-4379-8ca3-c518c560014c" Version="[1.1.0]" ID="0" UseID="0" />
+    </ScriptRootFolder>
   </ScriptManager2>
   <BridgeManager Guid="533d0d47-142c-48fb-8455-ba35a41fc134" RestrictToMatchingInst="0" />
   <ErrorManager Guid="31b2e717-38d8-4b1c-a69a-f29f2f1fa50f" />
   <CertificateManager Guid="3c96e7a3-b12c-45ae-8652-bf2f8f41a5b1" PwdProtected="0" />
   <EventManager Guid="a868eae1-98d4-4c64-bb23-d7f30f6e5ecf">
-    <TimeEventOnInterval Guid="e5090636-558c-4e0d-998e-d4aed7cd28e5" WaitForPresetDone="0" ExecOnce="0" IntervalUnit="1" AFAP="0" WaitElapsed="0" Type="0" Interval_PropType="0" Interval_Value="1" />
+    <TimeEventOnInterval Guid="e5090636-558c-4e0d-998e-d4aed7cd28e5" WaitForPresetDone="0" ExecOnce="0" IntervalUnit="1" AFAP="0" WaitElapsed="0" Type="0" Interval_PropType="0" Interval_Value="1">
+      <EventActionCallScript Guid="c98e31b7-fe86-488d-8d13-d05dfafd643d" id="1" ScriptToExec="230df4b5-81d5-4379-8ca3-c518c560014c">
+        <SharedVal_Guid_bool Name="Active">
+          <Val_Key_Guid_bool Key="2ec61295-6a88-4a60-adac-edef890551bc" Value="1" />
+          <Val_Key_Guid_bool Key="8fabb2fd-546b-4a1f-a4a7-095c7fefa79d" Value="0" />
+        </SharedVal_Guid_bool>
+      </EventActionCallScript>
+    </TimeEventOnInterval>
   </EventManager>
   <ColorSetManager Guid="0a0affbf-64fe-4c85-922c-d1d36460ae85" />
 </ProjectData>

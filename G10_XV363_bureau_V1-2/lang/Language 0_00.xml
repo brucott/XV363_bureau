@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <languageData Version="galileoNG">
 	<texts>
-		<standard Guid="0fa419f1-a95c-4ef5-b0ad-5cafdcff1f0e" textID="0"><![CDATA[Maison]]></standard>
-		<standard Guid="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" textID="1"><![CDATA[C°]]></standard>
+		<standard Guid="0fa419f1-a95c-4ef5-b0ad-5cafdcff1f0e" textID="0"><![CDATA[ACCUEIL]]></standard>
+		<standard Guid="902c3e40-7c5c-461e-88a2-cfc43b9cd08d" textID="1"><![CDATA[°C]]></standard>
 		<standard Guid="ba18a433-dc47-417f-a1c0-0797f54e6608" textID="2"><![CDATA[Temperatures]]></standard>
 		<standard Guid="754f1dca-00bb-4cc7-b7e1-ab6c30bb1c47" textID="3"><![CDATA[Piscine]]></standard>
 		<standard Guid="9ab07e62-3f28-4bf5-8615-e2162b1c4bcb" textID="4"><![CDATA[Air]]></standard>
 		<standard Guid="9100a564-01c4-49da-b951-b2e796fa1aaa" textID="5"><![CDATA[:]]></standard>
 		<standard Guid="d32b6fd3-e620-439f-812d-2c98073d97ec" textID="6"><![CDATA[Eau]]></standard>
 		<standard Guid="0b9232b3-0510-4784-b973-c7c29bd9d1df" textID="7"><![CDATA[Pompe]]></standard>
-		<standard Guid="d90c5d17-641d-4293-a934-77e3b300ce0a" textID="8"><![CDATA[Eclairage]]></standard>
+		<standard Guid="d90c5d17-641d-4293-a934-77e3b300ce0a" textID="8"><![CDATA[Eclairage piscine]]></standard>
 		<standard Guid="4d705115-bb81-4bcc-b3a0-806daa80bcf0" textID="9"><![CDATA[Alarmes :]]></standard>
 		<standard Guid="d373955d-d596-41d6-a75c-ce495aa7e748" textID="10"><![CDATA[Ext. piscine]]></standard>
 		<standard Guid="7ace38c6-0b03-4869-9529-07ffeeda9392" textID="11"><![CDATA[Ext. garage]]></standard>
@@ -28,6 +28,23 @@
 		<standard Guid="27a7967e-a6dc-4326-95c1-7d0d29cf17b2" textID="24"><![CDATA[EAU]]></standard>
 		<standard Guid="02c48840-f397-4564-85f2-d1bfd3ff1c6a" textID="25"><![CDATA[AIR]]></standard>
 		<standard Guid="24bc8e47-c867-4a22-8b1f-b3b9a2934266" textID="26"><![CDATA[Temp. exterieure C°]]></standard>
+		<standard Guid="51aff956-208a-4c89-81b5-186190e6809b" textID="27"><![CDATA[Eclairage arbre]]></standard>
+		<standard Guid="bb71dd28-8f41-4d72-9e70-95160b38597f" textID="28"><![CDATA[Eclairage rambarde]]></standard>
+		<standard Guid="f22e7f2e-d75f-459e-bd63-a13cefbfd10c" textID="29"><![CDATA[Température de l'air]]></standard>
+		<standard Guid="358fbee9-6800-42b0-94ad-f31c7336a817" textID="30"><![CDATA[Pourcentage d'humidité]]></standard>
+		<standard Guid="5cf6fbaf-c699-4d25-9f7c-91ec4521700f" textID="31"><![CDATA[%]]></standard>
+		<standard Guid="3435c2c5-0573-41f0-807f-921ef12e5c66" textID="32"><![CDATA[Température air local piscine]]></standard>
+		<standard Guid="c007da1a-e14f-4c21-afb0-f443b1c392a9" textID="33"><![CDATA[Température]]></standard>
+		<standard Guid="9a417ac2-7818-4686-8b8e-81c7d516c4be" textID="34"><![CDATA[AQUARIUM]]></standard>
+		<standard Guid="4b512d8a-03d3-46d4-8312-202ab599006e" textID="35"><![CDATA[PISCINE]]></standard>
+		<standard Guid="a273e380-b168-45d4-bc7c-6bf7a3344189" textID="36"><![CDATA[TEMPERATURES]]></standard>
+		<standard Guid="4ea44e5d-ded9-41d9-b63c-edcf0b0317ee" textID="37"><![CDATA[Eclairage]]></standard>
+		<standard Guid="0a0e3a31-734f-4286-bdb3-35a6405c557b" textID="38"><![CDATA[Chauffage]]></standard>
+		<standard Guid="4c0c00aa-cceb-42fe-93c7-07a3e8a1a55a" textID="39"><![CDATA[METEO]]></standard>
+		<standard Guid="dc218318-324f-4587-9866-6a388bbfc41d" textID="40"><![CDATA[Température piscine]]></standard>
+		<standard Guid="0f8f262e-d62c-4dc7-a063-d5d15f5cd9cd" textID="41"><![CDATA[Temp. air local piscine]]></standard>
+		<standard Guid="9d5caa31-6e37-40e1-848d-de3aa5538f9e" textID="42"><![CDATA[Température eau piscine]]></standard>
+		<standard Guid="5138bb7f-73e6-4ff2-beb2-993f97885ee0" textID="43"><![CDATA[ruler value]]></standard>
 		<error Guid="3b4539b0-2103-4261-9d81-3908c30e1e6c" textID="0"><![CDATA[Piscine en mode "hors gel"]]></error>
 		<error Guid="384fea2f-fc0a-4756-89b4-8487f70375fe" textID="1"><![CDATA[Alarm test]]></error>
 	</texts>

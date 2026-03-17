@@ -1,0 +1,18 @@
+PourcentageHumiditeCal := 0.PourcentageHumidite / 100;
+TempAirExterieurCal := 0.TempAirExterieur / 100;
+TempAirLocalCal := 0.TempAir / 100;
+TempEauCal := 0.TempEau / 100;
+
+#.rTempAirExterieurTemp := 0.TempAirExterieur;
+#.rTempAirExterieur := rTempAirExterieurTemp  / 100;
+
+#.rTempAirLocalTemp := 0.TempAir;
+#.rTempAirLocal := #.rTempAirLocalTemp / 100;
+
+#.rTempEauTemp := 0.TempEau;
+#.rTempEau := #.rTempEauTemp / 100;
+
+#.tempAquarium := 1.MW010;
+
+
+
